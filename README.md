@@ -1,4 +1,4 @@
-📊 Data Analyst Bootcamp Project
+#📊 Data Analyst Bootcamp Project:
 Welcome to the Data Analyst Bootcamp Project, a hands-on exploration of data analytics fundamentals using Python and Google Colab. This notebook was developed as part of a structured bootcamp experience, showcasing key skills in data manipulation, visualization, and interpretation.
 
 🚀 Project Overview
