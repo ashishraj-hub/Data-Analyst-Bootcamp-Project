@@ -88,5 +88,9 @@ If this README or project helped you:
 - **Share** it with someone who is passionate about Data Science or AI/ML
 
 ---
-🙌 Acknowledgments
-Thanks to the bootcamp instructors and peers for guidance and feedback throughout this journey.
+
+## 🙌 Acknowledgments
+
+- Thanks to the bootcamp instructors and peers for guidance and feedback throughout this journey.
+
+---
